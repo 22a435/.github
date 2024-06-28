@@ -2,7 +2,7 @@
   
 # ⊤⊣⊥
 
-![22a435](./22a435.png)
+![22a435](../22a435.png)
 
 ## Current Validators
 ### [penumbra](https://penumbra.today/validator/penumbravalid1qttzflwwf76qsredmcmqdny3z2v35a3kklrzram6l7x9l69v7szslkuzy0)
