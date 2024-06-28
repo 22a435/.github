@@ -13,5 +13,5 @@
 
 ## Associated Projects
 ### [UwU.Direct (Unicorn Meme-Chain Explorer)](https://uwu.direct/)
-### [UwU Black Market (soon)](https://uwublk.market) --- <a href=http://t.me/unicorn_black_market>join the telegram</a>
-#### [Black Market Functional Preview (only works with leap)](https://uwublkmktalphatestpreviewhos.uwu-direct.pages.dev/)
+### [UwU Black Market (v1.0.0 soon)](https://uwublk.market) --- <a href=http://t.me/unicorn_black_market>telegram / otc group</a>
+#### [UwU Black Market v0.0.x Test Preview (only works with leap)](https://uwublkmktalphatestpreviewhos.uwu-direct.pages.dev/)
